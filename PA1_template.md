@@ -10,7 +10,7 @@ output:
 
 
 ```r
-datawithNA <- read.csv("C:/Users/EAStone/Documents/Reproducable Data/Course Project 1/activity.csv")
+datawithNA <- read.csv("activity.csv")
 ```
 
 
